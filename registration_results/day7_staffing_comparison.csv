@@ -1,0 +1,3 @@
+day,configuration,students,average_counselling_wait_minutes,average_registration_wait_minutes,average_approval_wait_minutes,average_total_wait_minutes,average_whole_process_minutes,maximum_registration_queue,maximum_approval_queue,registration_utilization_percent,approval_utilization_percent,completed_by_4_30pm_percent
+7,Day 7 improvement: one registration officer,28,0.04178571428571429,19.201785714285712,0.3028571428571428,19.54642857142857,48.52607142857143,5,2,92.8327654319881,82.81523292246301,82.14285714285714
+7,Day 7 improvement: two registration officers,28,0.04178571428571429,1.4103571428571429,13.546785714285715,14.999285714285714,43.97821428571429,3,4,46.41638271599405,82.81523292246301,82.14285714285714

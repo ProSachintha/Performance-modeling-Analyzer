@@ -1,17 +1,2 @@
 # Python virtual environment
 .venv/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Generated simulation results
-registration_results/
-
-# IDE settings
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
